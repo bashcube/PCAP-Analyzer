@@ -18,4 +18,4 @@
       The following code automates the process of TShark/TCPDUMP
       output filterring by analyzing the .pcap file and printing
       data accordingly.
-      ![Sample Output Of Code](https://github.com/bashcube/PCAP-Analyzer/Screenshot.png)
+      ![Sample Output Of Code](https://github.com/bashcube/PCAP-Analyzer/blob/master/Screenshot.png)
